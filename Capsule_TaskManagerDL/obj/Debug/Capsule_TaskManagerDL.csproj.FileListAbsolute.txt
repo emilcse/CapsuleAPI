@@ -1,0 +1,40 @@
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManagerDL\bin\Debug\Capsule_TaskManagerDL.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManagerDL\bin\Debug\Capsule_TaskManagerDL.pdb
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManagerDL\bin\Debug\Capsule_DataAccessLayer.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManagerDL\bin\Debug\Capsule_DataAccessLayer.pdb
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManagerDL\obj\Debug\Capsule_TaskManagerDL.csprojResolveAssemblyReference.cache
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManagerDL\obj\Debug\Capsule_TaskManagerDL.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManagerDL\obj\Debug\Capsule_TaskManagerDL.pdb
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManagerDL\bin\Debug\Capsule_TaskManagerDL.dll.config
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManagerDL\bin\Debug\EntityFramework.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManagerDL\bin\Debug\EntityFramework.xml
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManagerDL\bin\Debug\Capsule_TaskManagerDL.dll.config
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManagerDL\bin\Debug\Capsule_TaskManagerDL.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManagerDL\bin\Debug\Capsule_TaskManagerDL.pdb
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManagerDL\bin\Debug\EntityFramework.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManagerDL\bin\Debug\EntityFramework.xml
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManagerDL\obj\Debug\Capsule_TaskManagerDL.csprojResolveAssemblyReference.cache
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManagerDL\obj\Debug\Capsule_TaskManagerDL.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManagerDL\obj\Debug\Capsule_TaskManagerDL.pdb
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManagerDL\bin\Debug\Capsule_TaskManagerDL.dll.config
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManagerDL\bin\Debug\Capsule_TaskManagerDL.dll
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManagerDL\bin\Debug\Capsule_TaskManagerDL.pdb
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManagerDL\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManagerDL\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManagerDL\obj\Debug\Capsule_TaskManagerDL.dll
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManagerDL\obj\Debug\Capsule_TaskManagerDL.pdb
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManagerDL\bin\Debug\Capsule_TaskManagerDL.dll.config
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManagerDL\bin\Debug\Capsule_TaskManagerDL.dll
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManagerDL\bin\Debug\Capsule_TaskManagerDL.pdb
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManagerDL\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManagerDL\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManagerDL\obj\Debug\Capsule_TaskManagerDL.dll
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManagerDL\obj\Debug\Capsule_TaskManagerDL.pdb
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManagerDL\bin\Debug\Capsule_TaskManagerDL.dll.config
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManagerDL\bin\Debug\Capsule_TaskManagerDL.dll
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManagerDL\bin\Debug\Capsule_TaskManagerDL.pdb
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManagerDL\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManagerDL\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManagerDL\obj\Debug\Capsule_TaskManagerDL.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManagerDL\obj\Debug\Capsule_TaskManagerDL.dll
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManagerDL\obj\Debug\Capsule_TaskManagerDL.pdb

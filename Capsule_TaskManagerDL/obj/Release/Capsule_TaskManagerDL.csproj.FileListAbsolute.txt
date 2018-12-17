@@ -1,0 +1,16 @@
+C:\Users\Admin\Source\Repos\NewRepo3\Capsule_TaskManager\Capsule_TaskManagerDL\bin\Release\Capsule_TaskManagerDL.dll.config
+C:\Users\Admin\Source\Repos\NewRepo3\Capsule_TaskManager\Capsule_TaskManagerDL\bin\Release\Capsule_TaskManagerDL.dll
+C:\Users\Admin\Source\Repos\NewRepo3\Capsule_TaskManager\Capsule_TaskManagerDL\bin\Release\Capsule_TaskManagerDL.pdb
+C:\Users\Admin\Source\Repos\NewRepo3\Capsule_TaskManager\Capsule_TaskManagerDL\bin\Release\EntityFramework.dll
+C:\Users\Admin\Source\Repos\NewRepo3\Capsule_TaskManager\Capsule_TaskManagerDL\bin\Release\EntityFramework.xml
+C:\Users\Admin\Source\Repos\NewRepo3\Capsule_TaskManager\Capsule_TaskManagerDL\obj\Release\Capsule_TaskManagerDL.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Source\Repos\NewRepo3\Capsule_TaskManager\Capsule_TaskManagerDL\obj\Release\Capsule_TaskManagerDL.dll
+C:\Users\Admin\Source\Repos\NewRepo3\Capsule_TaskManager\Capsule_TaskManagerDL\obj\Release\Capsule_TaskManagerDL.pdb
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManagerDL\bin\Release\Capsule_TaskManagerDL.dll.config
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManagerDL\bin\Release\Capsule_TaskManagerDL.dll
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManagerDL\bin\Release\Capsule_TaskManagerDL.pdb
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManagerDL\bin\Release\EntityFramework.dll
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManagerDL\bin\Release\EntityFramework.xml
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManagerDL\obj\Release\Capsule_TaskManagerDL.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManagerDL\obj\Release\Capsule_TaskManagerDL.dll
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManagerDL\obj\Release\Capsule_TaskManagerDL.pdb

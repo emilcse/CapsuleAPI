@@ -1,0 +1,134 @@
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\obj\Debug\Capsule_TaskManager.Tests.csprojResolveAssemblyReference.cache
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\roslyn\csc.exe
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\roslyn\csc.exe.config
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\roslyn\csc.rsp
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\roslyn\csi.exe
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\roslyn\csi.rsp
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\roslyn\System.AppContext.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\roslyn\System.IO.FileSystem.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\roslyn\vbc.exe
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\roslyn\vbc.exe.config
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\roslyn\vbc.rsp
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\Capsule_TaskManager.Tests.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\Capsule_TaskManager.Tests.pdb
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\Capsule_TaskManager.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\System.Web.Http.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\Capsule_TaskManagerBL.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\Capsule_TaskManager.pdb
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\Capsule_TaskManager.dll.config
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\System.Web.Http.xml
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\Capsule_TaskManagerBL.pdb
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\obj\Debug\Capsule_TaskManager.Tests.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\obj\Debug\Capsule_TaskManager.Tests.pdb
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\Capsule_DataAccessLayer.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\Capsule_TaskManagerDL.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\Capsule_DataAccessLayer.pdb
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\Capsule_TaskManagerDL.pdb
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\EntityFramework.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\Capsule_TaskManagerDL.dll.config
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\EntityFramework.xml
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\roslyn\csc.exe
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\roslyn\csc.exe.config
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\roslyn\csc.rsp
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\roslyn\csi.exe
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\roslyn\csi.rsp
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\roslyn\System.AppContext.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\roslyn\System.IO.FileSystem.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\roslyn\vbc.exe
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\roslyn\vbc.exe.config
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\roslyn\vbc.rsp
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\Capsule_TaskManager.Tests.dll.config
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\Capsule_TaskManager.Tests.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\Capsule_TaskManager.Tests.pdb
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\Capsule_TaskManager.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\Capsule_TaskManagerBL.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\Capsule_TaskManagerDL.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\System.Web.Http.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\EntityFramework.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\System.Web.Http.Cors.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\System.Web.Cors.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\Capsule_TaskManagerBL.pdb
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\Capsule_TaskManagerDL.pdb
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\Capsule_TaskManagerDL.dll.config
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\Capsule_TaskManager.pdb
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\Capsule_TaskManager.dll.config
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\System.Web.Http.xml
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\EntityFramework.xml
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\System.Web.Http.Cors.xml
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\obj\Debug\Capsule_TaskManager.Tests.csprojResolveAssemblyReference.cache
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\obj\Debug\Capsule_TaskManager.Tests.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager.Tests\obj\Debug\Capsule_TaskManager.Tests.pdb
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\Capsule_TaskManager.Tests.dll.config
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\Capsule_TaskManager.Tests.dll
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\Capsule_TaskManager.Tests.pdb
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\Capsule_TaskManager.dll
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\Capsule_TaskManagerBL.dll
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\Capsule_TaskManagerDL.dll
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\System.Web.Cors.dll
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\Capsule_TaskManagerBL.pdb
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\Capsule_TaskManagerDL.pdb
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\Capsule_TaskManagerDL.dll.config
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\Capsule_TaskManager.pdb
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\Capsule_TaskManager.dll.config
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager.Tests\obj\Debug\Capsule_TaskManager.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager.Tests\obj\Debug\Capsule_TaskManager.Tests.dll
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager.Tests\obj\Debug\Capsule_TaskManager.Tests.pdb

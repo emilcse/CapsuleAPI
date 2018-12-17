@@ -1,0 +1,363 @@
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\csc.exe
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\csc.exe.config
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\csc.rsp
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\csi.exe
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\csi.rsp
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\System.AppContext.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\System.Collections.Immutable.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\System.IO.FileSystem.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\System.Reflection.Metadata.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\vbc.exe
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\vbc.exe.config
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\vbc.rsp
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\VBCSCompiler.exe
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\VBCSCompiler.exe.config
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\Capsule_TaskManager.dll.config
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\Capsule_TaskManager.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\Capsule_TaskManager.pdb
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\Capsule_TaskManagerBL.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\Newtonsoft.Json.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\System.Net.Http.Formatting.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\System.Web.Http.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\System.Web.Http.WebHost.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\Capsule_TaskManagerBL.pdb
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\Newtonsoft.Json.xml
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\System.Net.Http.Formatting.xml
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\System.Web.Http.xml
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\System.Web.Http.WebHost.xml
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\obj\Debug\Capsule_TaskManager.csprojResolveAssemblyReference.cache
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\obj\Debug\Capsule_TaskManager.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\obj\Debug\Capsule_TaskManager.pdb
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\Capsule_DataAccessLayer.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\Capsule_TaskManagerDL.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\Capsule_DataAccessLayer.pdb
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\Capsule_TaskManagerDL.pdb
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\EntityFramework.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\Capsule_TaskManagerDL.dll.config
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\EntityFramework.xml
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\csc.exe
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\csc.exe.config
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\csc.rsp
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\csi.exe
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\csi.rsp
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\System.AppContext.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\System.Collections.Immutable.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\System.IO.FileSystem.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\System.Reflection.Metadata.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\vbc.exe
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\vbc.exe.config
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\vbc.rsp
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\VBCSCompiler.exe
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\VBCSCompiler.exe.config
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\Capsule_TaskManager.dll.config
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\Capsule_TaskManager.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\Capsule_TaskManager.pdb
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\Capsule_TaskManagerBL.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\Capsule_TaskManagerDL.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\Newtonsoft.Json.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\System.Net.Http.Formatting.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\System.Web.Cors.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\System.Web.Http.Cors.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\System.Web.Http.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\System.Web.Http.WebHost.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\EntityFramework.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\Capsule_TaskManagerBL.pdb
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\Capsule_TaskManagerDL.pdb
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\Capsule_TaskManagerDL.dll.config
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\System.Net.Http.Formatting.xml
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\System.Web.Http.xml
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\System.Web.Http.Cors.xml
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\Newtonsoft.Json.xml
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\System.Web.Http.WebHost.xml
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\bin\EntityFramework.xml
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\obj\Debug\Capsule_TaskManager.csprojResolveAssemblyReference.cache
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\obj\Debug\Capsule_TaskManager.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_TaskManager\obj\Debug\Capsule_TaskManager.pdb
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\csc.exe
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\csc.exe.config
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\csc.rsp
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\csi.exe
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\csi.rsp
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\vbc.exe
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\vbc.rsp
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager\bin\Capsule_TaskManager.dll.config
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager\bin\Capsule_TaskManager.dll
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager\bin\Capsule_TaskManager.pdb
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager\bin\Capsule_TaskManagerBL.dll
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager\bin\Capsule_TaskManagerDL.dll
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager\bin\System.Web.Cors.dll
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager\bin\System.Web.Http.Cors.dll
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager\bin\System.Web.Http.dll
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager\bin\EntityFramework.dll
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager\bin\Capsule_TaskManagerBL.pdb
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager\bin\Capsule_TaskManagerDL.pdb
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager\bin\Capsule_TaskManagerDL.dll.config
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager\bin\System.Web.Http.xml
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager\bin\System.Web.Http.Cors.xml
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager\bin\EntityFramework.xml
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager\obj\Debug\Capsule_TaskManager.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager\obj\Debug\Capsule_TaskManager.dll
+C:\Users\Admin\Downloads\CapsuleProject-master\Final_Capsule_TaskManager\Capsule_TaskManager\Capsule_TaskManager\obj\Debug\Capsule_TaskManager.pdb
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\csc.exe
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\csc.exe.config
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\csc.rsp
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\csi.exe
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\csi.rsp
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\vbc.exe
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\vbc.rsp
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManager\bin\Capsule_TaskManager.dll.config
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManager\bin\Capsule_TaskManager.dll
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManager\bin\Capsule_TaskManager.pdb
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManager\bin\Capsule_TaskManagerBL.dll
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManager\bin\Capsule_TaskManagerDL.dll
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManager\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManager\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManager\bin\System.Web.Cors.dll
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManager\bin\System.Web.Http.Cors.dll
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManager\bin\System.Web.Http.dll
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManager\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManager\bin\EntityFramework.dll
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManager\bin\Capsule_TaskManagerBL.pdb
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManager\bin\Capsule_TaskManagerDL.pdb
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManager\bin\Capsule_TaskManagerDL.dll.config
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManager\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManager\bin\System.Web.Http.xml
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManager\bin\System.Web.Http.Cors.xml
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManager\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManager\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManager\bin\EntityFramework.xml
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManager\obj\Debug\Capsule_TaskManager.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManager\obj\Debug\Capsule_TaskManager.dll
+C:\Users\Admin\Source\Repos\Capsule_TaskManager\Capsule_TaskManager\obj\Debug\Capsule_TaskManager.pdb
+C:\Users\Admin\Source\Repos\NewRepo3 - Copy (2)\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\csc.exe
+C:\Users\Admin\Source\Repos\NewRepo3 - Copy (2)\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\csc.exe.config
+C:\Users\Admin\Source\Repos\NewRepo3 - Copy (2)\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\csc.rsp
+C:\Users\Admin\Source\Repos\NewRepo3 - Copy (2)\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\csi.exe
+C:\Users\Admin\Source\Repos\NewRepo3 - Copy (2)\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\csi.rsp
+C:\Users\Admin\Source\Repos\NewRepo3 - Copy (2)\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Source\Repos\NewRepo3 - Copy (2)\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Source\Repos\NewRepo3 - Copy (2)\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Source\Repos\NewRepo3 - Copy (2)\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Source\Repos\NewRepo3 - Copy (2)\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Source\Repos\NewRepo3 - Copy (2)\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Source\Repos\NewRepo3 - Copy (2)\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Source\Repos\NewRepo3 - Copy (2)\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Source\Repos\NewRepo3 - Copy (2)\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Source\Repos\NewRepo3 - Copy (2)\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Source\Repos\NewRepo3 - Copy (2)\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Source\Repos\NewRepo3 - Copy (2)\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Source\Repos\NewRepo3 - Copy (2)\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Source\Repos\NewRepo3 - Copy (2)\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Source\Repos\NewRepo3 - Copy (2)\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Source\Repos\NewRepo3 - Copy (2)\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Source\Repos\NewRepo3 - Copy (2)\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\vbc.exe
+C:\Users\Admin\Source\Repos\NewRepo3 - Copy (2)\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Source\Repos\NewRepo3 - Copy (2)\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\vbc.rsp
+C:\Users\Admin\Source\Repos\NewRepo3 - Copy (2)\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Source\Repos\NewRepo3 - Copy (2)\Capsule_TaskManager\Capsule_TaskManager\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Source\Repos\NewRepo3 - Copy (2)\Capsule_TaskManager\Capsule_TaskManager\bin\Capsule_TaskManager.dll.config
+C:\Users\Admin\Source\Repos\NewRepo3 - Copy (2)\Capsule_TaskManager\Capsule_TaskManager\bin\Capsule_TaskManager.dll
+C:\Users\Admin\Source\Repos\NewRepo3 - Copy (2)\Capsule_TaskManager\Capsule_TaskManager\bin\Capsule_TaskManager.pdb
+C:\Users\Admin\Source\Repos\NewRepo3 - Copy (2)\Capsule_TaskManager\Capsule_TaskManager\bin\Capsule_TaskManagerBL.dll
+C:\Users\Admin\Source\Repos\NewRepo3 - Copy (2)\Capsule_TaskManager\Capsule_TaskManager\bin\Capsule_TaskManagerDL.dll
+C:\Users\Admin\Source\Repos\NewRepo3 - Copy (2)\Capsule_TaskManager\Capsule_TaskManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Source\Repos\NewRepo3 - Copy (2)\Capsule_TaskManager\Capsule_TaskManager\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Source\Repos\NewRepo3 - Copy (2)\Capsule_TaskManager\Capsule_TaskManager\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Source\Repos\NewRepo3 - Copy (2)\Capsule_TaskManager\Capsule_TaskManager\bin\System.Web.Cors.dll
+C:\Users\Admin\Source\Repos\NewRepo3 - Copy (2)\Capsule_TaskManager\Capsule_TaskManager\bin\System.Web.Http.Cors.dll
+C:\Users\Admin\Source\Repos\NewRepo3 - Copy (2)\Capsule_TaskManager\Capsule_TaskManager\bin\System.Web.Http.dll
+C:\Users\Admin\Source\Repos\NewRepo3 - Copy (2)\Capsule_TaskManager\Capsule_TaskManager\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Source\Repos\NewRepo3 - Copy (2)\Capsule_TaskManager\Capsule_TaskManager\bin\EntityFramework.dll
+C:\Users\Admin\Source\Repos\NewRepo3 - Copy (2)\Capsule_TaskManager\Capsule_TaskManager\bin\Capsule_TaskManagerBL.pdb
+C:\Users\Admin\Source\Repos\NewRepo3 - Copy (2)\Capsule_TaskManager\Capsule_TaskManager\bin\Capsule_TaskManagerDL.pdb
+C:\Users\Admin\Source\Repos\NewRepo3 - Copy (2)\Capsule_TaskManager\Capsule_TaskManager\bin\Capsule_TaskManagerDL.dll.config
+C:\Users\Admin\Source\Repos\NewRepo3 - Copy (2)\Capsule_TaskManager\Capsule_TaskManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Source\Repos\NewRepo3 - Copy (2)\Capsule_TaskManager\Capsule_TaskManager\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Source\Repos\NewRepo3 - Copy (2)\Capsule_TaskManager\Capsule_TaskManager\bin\System.Web.Http.xml
+C:\Users\Admin\Source\Repos\NewRepo3 - Copy (2)\Capsule_TaskManager\Capsule_TaskManager\bin\System.Web.Http.Cors.xml
+C:\Users\Admin\Source\Repos\NewRepo3 - Copy (2)\Capsule_TaskManager\Capsule_TaskManager\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Source\Repos\NewRepo3 - Copy (2)\Capsule_TaskManager\Capsule_TaskManager\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Source\Repos\NewRepo3 - Copy (2)\Capsule_TaskManager\Capsule_TaskManager\bin\EntityFramework.xml
+C:\Users\Admin\Source\Repos\NewRepo3 - Copy (2)\Capsule_TaskManager\Capsule_TaskManager\obj\Debug\Capsule_TaskManager.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Source\Repos\NewRepo3 - Copy (2)\Capsule_TaskManager\Capsule_TaskManager\obj\Debug\Capsule_TaskManager.dll
+C:\Users\Admin\Source\Repos\NewRepo3 - Copy (2)\Capsule_TaskManager\Capsule_TaskManager\obj\Debug\Capsule_TaskManager.pdb
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManager\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManager\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManager\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManager\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManager\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManager\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManager\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManager\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManager\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManager\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManager\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManager\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManager\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManager\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManager\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManager\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManager\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManager\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManager\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManager\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManager\bin\Capsule_TaskManager.dll.config
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManager\bin\Capsule_TaskManager.dll
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManager\bin\Capsule_TaskManager.pdb
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManager\bin\Capsule_TaskManagerBL.dll
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManager\bin\Capsule_TaskManagerDL.dll
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManager\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManager\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManager\bin\System.Web.Cors.dll
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManager\bin\System.Web.Http.Cors.dll
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManager\bin\System.Web.Http.dll
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManager\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManager\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManager\bin\Capsule_TaskManagerBL.pdb
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManager\bin\Capsule_TaskManagerDL.pdb
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManager\bin\Capsule_TaskManagerDL.dll.config
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManager\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManager\bin\System.Web.Http.xml
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManager\bin\System.Web.Http.Cors.xml
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManager\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManager\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManager\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManager\obj\Debug\Capsule_TaskManager.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManager\obj\Debug\Capsule_TaskManager.dll
+C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManager\obj\Debug\Capsule_TaskManager.pdb
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManager\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManager\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManager\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManager\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManager\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManager\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManager\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManager\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManager\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManager\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManager\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManager\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManager\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManager\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManager\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManager\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManager\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManager\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManager\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManager\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManager\bin\Capsule_TaskManager.dll.config
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManager\bin\Capsule_TaskManager.dll
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManager\bin\Capsule_TaskManager.pdb
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManager\bin\Capsule_TaskManagerBL.dll
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManager\bin\Capsule_TaskManagerDL.dll
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManager\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManager\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManager\bin\System.Web.Cors.dll
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManager\bin\System.Web.Http.Cors.dll
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManager\bin\System.Web.Http.dll
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManager\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManager\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManager\bin\Capsule_TaskManagerBL.pdb
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManager\bin\Capsule_TaskManagerDL.pdb
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManager\bin\Capsule_TaskManagerDL.dll.config
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManager\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManager\bin\System.Web.Http.xml
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManager\bin\System.Web.Http.Cors.xml
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManager\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManager\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManager\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManager\obj\Debug\Capsule_TaskManager.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManager\obj\Debug\Capsule_TaskManager.dll
+C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManager\obj\Debug\Capsule_TaskManager.pdb

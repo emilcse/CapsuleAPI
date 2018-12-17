@@ -1,0 +1,779 @@
+{
+  "version": 2,
+  "targets": {
+    ".NETFramework,Version=v4.5.2": {
+      "Microsoft.AspNet.WebApi.Client/5.2.6": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "6.0.4"
+        },
+        "frameworkAssemblies": [
+          "System.Net.Http"
+        ],
+        "compile": {
+          "lib/net45/System.Net.Http.Formatting.dll": {}
+        },
+        "runtime": {
+          "lib/net45/System.Net.Http.Formatting.dll": {}
+        }
+      },
+      "Microsoft.AspNet.WebApi.Core/5.2.6": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNet.WebApi.Client": "5.2.6"
+        },
+        "compile": {
+          "lib/net45/System.Web.Http.dll": {}
+        },
+        "runtime": {
+          "lib/net45/System.Web.Http.dll": {}
+        }
+      },
+      "Newtonsoft.Json/10.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        }
+      },
+      "NUnit/3.5.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/nunit.framework.dll": {}
+        },
+        "runtime": {
+          "lib/net45/nunit.framework.dll": {}
+        }
+      },
+      "NUnit.Console/3.4.1": {
+        "type": "package",
+        "dependencies": {
+          "NUnit.ConsoleRunner": "3.4.1",
+          "NUnit.Extension.NUnitProjectLoader": "3.4.1",
+          "NUnit.Extension.NUnitV2Driver": "3.4.1",
+          "NUnit.Extension.NUnitV2ResultWriter": "3.4.1",
+          "NUnit.Extension.TeamCityEventListener": "1.0.1",
+          "NUnit.Extension.VSProjectLoader": "3.4.1"
+        }
+      },
+      "NUnit.ConsoleRunner/3.4.1": {
+        "type": "package"
+      },
+      "NUnit.Extension.NUnitProjectLoader/3.4.1": {
+        "type": "package"
+      },
+      "NUnit.Extension.NUnitV2Driver/3.4.1": {
+        "type": "package"
+      },
+      "NUnit.Extension.NUnitV2ResultWriter/3.4.1": {
+        "type": "package"
+      },
+      "NUnit.Extension.TeamCityEventListener/1.0.1": {
+        "type": "package"
+      },
+      "NUnit.Extension.VSProjectLoader/3.4.1": {
+        "type": "package"
+      },
+      "NUnit3TestAdapter/3.10.0": {
+        "type": "package",
+        "build": {
+          "build/net35/NUnit3TestAdapter.props": {}
+        }
+      },
+      "Capsule_TaskManager/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Capsule_TaskManagerBL": "1.0.0",
+          "Capsule_TaskManagerDL": "1.0.0"
+        }
+      },
+      "Capsule_TaskManagerBL/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Capsule_TaskManagerDL": "1.0.0"
+        }
+      },
+      "Capsule_TaskManagerDL/1.0.0": {
+        "type": "project"
+      }
+    },
+    ".NETFramework,Version=v4.5.2/win": {
+      "Microsoft.AspNet.WebApi.Client/5.2.6": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "6.0.4"
+        },
+        "frameworkAssemblies": [
+          "System.Net.Http"
+        ],
+        "compile": {
+          "lib/net45/System.Net.Http.Formatting.dll": {}
+        },
+        "runtime": {
+          "lib/net45/System.Net.Http.Formatting.dll": {}
+        }
+      },
+      "Microsoft.AspNet.WebApi.Core/5.2.6": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNet.WebApi.Client": "5.2.6"
+        },
+        "compile": {
+          "lib/net45/System.Web.Http.dll": {}
+        },
+        "runtime": {
+          "lib/net45/System.Web.Http.dll": {}
+        }
+      },
+      "Newtonsoft.Json/10.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        }
+      },
+      "NUnit/3.5.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/nunit.framework.dll": {}
+        },
+        "runtime": {
+          "lib/net45/nunit.framework.dll": {}
+        }
+      },
+      "NUnit.Console/3.4.1": {
+        "type": "package",
+        "dependencies": {
+          "NUnit.ConsoleRunner": "3.4.1",
+          "NUnit.Extension.NUnitProjectLoader": "3.4.1",
+          "NUnit.Extension.NUnitV2Driver": "3.4.1",
+          "NUnit.Extension.NUnitV2ResultWriter": "3.4.1",
+          "NUnit.Extension.TeamCityEventListener": "1.0.1",
+          "NUnit.Extension.VSProjectLoader": "3.4.1"
+        }
+      },
+      "NUnit.ConsoleRunner/3.4.1": {
+        "type": "package"
+      },
+      "NUnit.Extension.NUnitProjectLoader/3.4.1": {
+        "type": "package"
+      },
+      "NUnit.Extension.NUnitV2Driver/3.4.1": {
+        "type": "package"
+      },
+      "NUnit.Extension.NUnitV2ResultWriter/3.4.1": {
+        "type": "package"
+      },
+      "NUnit.Extension.TeamCityEventListener/1.0.1": {
+        "type": "package"
+      },
+      "NUnit.Extension.VSProjectLoader/3.4.1": {
+        "type": "package"
+      },
+      "NUnit3TestAdapter/3.10.0": {
+        "type": "package",
+        "build": {
+          "build/net35/NUnit3TestAdapter.props": {}
+        }
+      },
+      "Capsule_TaskManager/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Capsule_TaskManagerBL": "1.0.0",
+          "Capsule_TaskManagerDL": "1.0.0"
+        }
+      },
+      "Capsule_TaskManagerBL/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Capsule_TaskManagerDL": "1.0.0"
+        }
+      },
+      "Capsule_TaskManagerDL/1.0.0": {
+        "type": "project"
+      }
+    },
+    ".NETFramework,Version=v4.5.2/win-x64": {
+      "Microsoft.AspNet.WebApi.Client/5.2.6": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "6.0.4"
+        },
+        "frameworkAssemblies": [
+          "System.Net.Http"
+        ],
+        "compile": {
+          "lib/net45/System.Net.Http.Formatting.dll": {}
+        },
+        "runtime": {
+          "lib/net45/System.Net.Http.Formatting.dll": {}
+        }
+      },
+      "Microsoft.AspNet.WebApi.Core/5.2.6": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNet.WebApi.Client": "5.2.6"
+        },
+        "compile": {
+          "lib/net45/System.Web.Http.dll": {}
+        },
+        "runtime": {
+          "lib/net45/System.Web.Http.dll": {}
+        }
+      },
+      "Newtonsoft.Json/10.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        }
+      },
+      "NUnit/3.5.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/nunit.framework.dll": {}
+        },
+        "runtime": {
+          "lib/net45/nunit.framework.dll": {}
+        }
+      },
+      "NUnit.Console/3.4.1": {
+        "type": "package",
+        "dependencies": {
+          "NUnit.ConsoleRunner": "3.4.1",
+          "NUnit.Extension.NUnitProjectLoader": "3.4.1",
+          "NUnit.Extension.NUnitV2Driver": "3.4.1",
+          "NUnit.Extension.NUnitV2ResultWriter": "3.4.1",
+          "NUnit.Extension.TeamCityEventListener": "1.0.1",
+          "NUnit.Extension.VSProjectLoader": "3.4.1"
+        }
+      },
+      "NUnit.ConsoleRunner/3.4.1": {
+        "type": "package"
+      },
+      "NUnit.Extension.NUnitProjectLoader/3.4.1": {
+        "type": "package"
+      },
+      "NUnit.Extension.NUnitV2Driver/3.4.1": {
+        "type": "package"
+      },
+      "NUnit.Extension.NUnitV2ResultWriter/3.4.1": {
+        "type": "package"
+      },
+      "NUnit.Extension.TeamCityEventListener/1.0.1": {
+        "type": "package"
+      },
+      "NUnit.Extension.VSProjectLoader/3.4.1": {
+        "type": "package"
+      },
+      "NUnit3TestAdapter/3.10.0": {
+        "type": "package",
+        "build": {
+          "build/net35/NUnit3TestAdapter.props": {}
+        }
+      },
+      "Capsule_TaskManager/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Capsule_TaskManagerBL": "1.0.0",
+          "Capsule_TaskManagerDL": "1.0.0"
+        }
+      },
+      "Capsule_TaskManagerBL/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Capsule_TaskManagerDL": "1.0.0"
+        }
+      },
+      "Capsule_TaskManagerDL/1.0.0": {
+        "type": "project"
+      }
+    },
+    ".NETFramework,Version=v4.5.2/win-x86": {
+      "Microsoft.AspNet.WebApi.Client/5.2.6": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "6.0.4"
+        },
+        "frameworkAssemblies": [
+          "System.Net.Http"
+        ],
+        "compile": {
+          "lib/net45/System.Net.Http.Formatting.dll": {}
+        },
+        "runtime": {
+          "lib/net45/System.Net.Http.Formatting.dll": {}
+        }
+      },
+      "Microsoft.AspNet.WebApi.Core/5.2.6": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNet.WebApi.Client": "5.2.6"
+        },
+        "compile": {
+          "lib/net45/System.Web.Http.dll": {}
+        },
+        "runtime": {
+          "lib/net45/System.Web.Http.dll": {}
+        }
+      },
+      "Newtonsoft.Json/10.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        }
+      },
+      "NUnit/3.5.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/nunit.framework.dll": {}
+        },
+        "runtime": {
+          "lib/net45/nunit.framework.dll": {}
+        }
+      },
+      "NUnit.Console/3.4.1": {
+        "type": "package",
+        "dependencies": {
+          "NUnit.ConsoleRunner": "3.4.1",
+          "NUnit.Extension.NUnitProjectLoader": "3.4.1",
+          "NUnit.Extension.NUnitV2Driver": "3.4.1",
+          "NUnit.Extension.NUnitV2ResultWriter": "3.4.1",
+          "NUnit.Extension.TeamCityEventListener": "1.0.1",
+          "NUnit.Extension.VSProjectLoader": "3.4.1"
+        }
+      },
+      "NUnit.ConsoleRunner/3.4.1": {
+        "type": "package"
+      },
+      "NUnit.Extension.NUnitProjectLoader/3.4.1": {
+        "type": "package"
+      },
+      "NUnit.Extension.NUnitV2Driver/3.4.1": {
+        "type": "package"
+      },
+      "NUnit.Extension.NUnitV2ResultWriter/3.4.1": {
+        "type": "package"
+      },
+      "NUnit.Extension.TeamCityEventListener/1.0.1": {
+        "type": "package"
+      },
+      "NUnit.Extension.VSProjectLoader/3.4.1": {
+        "type": "package"
+      },
+      "NUnit3TestAdapter/3.10.0": {
+        "type": "package",
+        "build": {
+          "build/net35/NUnit3TestAdapter.props": {}
+        }
+      },
+      "Capsule_TaskManager/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Capsule_TaskManagerBL": "1.0.0",
+          "Capsule_TaskManagerDL": "1.0.0"
+        }
+      },
+      "Capsule_TaskManagerBL/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Capsule_TaskManagerDL": "1.0.0"
+        }
+      },
+      "Capsule_TaskManagerDL/1.0.0": {
+        "type": "project"
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.AspNet.WebApi.Client/5.2.6": {
+      "sha512": "AIgEc1up4pvH8kXy+eG1x4Qfqd6piAq3yk11pveCQXWNkkYoiKdflSmcJZuWcerdMcAaoF0xC/mWGoTW4vF4Dg==",
+      "type": "package",
+      "path": "microsoft.aspnet.webapi.client/5.2.6",
+      "files": [
+        ".signature.p7s",
+        "lib/net45/System.Net.Http.Formatting.dll",
+        "lib/net45/System.Net.Http.Formatting.xml",
+        "lib/netstandard2.0/System.Net.Http.Formatting.dll",
+        "lib/netstandard2.0/System.Net.Http.Formatting.xml",
+        "lib/portable-wp8+netcore45+net45+wp81+wpa81/System.Net.Http.Formatting.dll",
+        "lib/portable-wp8+netcore45+net45+wp81+wpa81/System.Net.Http.Formatting.xml",
+        "microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
+        "microsoft.aspnet.webapi.client.nuspec"
+      ]
+    },
+    "Microsoft.AspNet.WebApi.Core/5.2.6": {
+      "sha512": "8UiHr2VkrpwDCwXaXea8pNaR2zvJ3HYwsmWmkTFY1lEB2u4eFnL+aM+/GJK91Ud3KQ7Xse+Vysvj/UalM3IlmA==",
+      "type": "package",
+      "path": "microsoft.aspnet.webapi.core/5.2.6",
+      "files": [
+        ".signature.p7s",
+        "Content/web.config.transform",
+        "lib/net45/System.Web.Http.dll",
+        "lib/net45/System.Web.Http.xml",
+        "microsoft.aspnet.webapi.core.5.2.6.nupkg.sha512",
+        "microsoft.aspnet.webapi.core.nuspec"
+      ]
+    },
+    "Newtonsoft.Json/10.0.1": {
+      "sha512": "MOUhQfeI43upq9QiEv+7YYTDQPtEZEj9xB50MgplO1XF/aumP0f+TCYIHpZEmfsiahJJaXt/gdRFYLFEoF2VyQ==",
+      "type": "package",
+      "path": "newtonsoft.json/10.0.1",
+      "files": [
+        ".signature.p7s",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/portable-net45+win8+wpa81+wp8/Newtonsoft.Json.dll",
+        "lib/portable-net45+win8+wpa81+wp8/Newtonsoft.Json.xml",
+        "newtonsoft.json.10.0.1.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "tools/install.ps1"
+      ]
+    },
+    "NUnit/3.5.0": {
+      "sha512": "mxNt3LiUb8j1PHhwvUxIoHOKX1sd3KzNmhl2MTuTCBuBThOZbFo6mrRUda6PK+j8MXlI5rYzQicLm9PvY8xVvA==",
+      "type": "package",
+      "path": "nunit/3.5.0",
+      "files": [
+        ".signature.p7s",
+        "CHANGES.txt",
+        "LICENSE.txt",
+        "NOTICES.txt",
+        "lib/dotnet/nunit.framework.dll",
+        "lib/dotnet/nunit.framework.xml",
+        "lib/net20/NUnit.System.Linq.dll",
+        "lib/net20/nunit.framework.dll",
+        "lib/net20/nunit.framework.xml",
+        "lib/net35/nunit.framework.dll",
+        "lib/net35/nunit.framework.xml",
+        "lib/net40/nunit.framework.dll",
+        "lib/net40/nunit.framework.xml",
+        "lib/net45/nunit.framework.dll",
+        "lib/net45/nunit.framework.xml",
+        "lib/portable-net45+win8+wp8+wpa81+Xamarin.Mac+MonoAndroid10+MonoTouch10+Xamarin.iOS10/nunit.framework.dll",
+        "lib/portable-net45+win8+wp8+wpa81+Xamarin.Mac+MonoAndroid10+MonoTouch10+Xamarin.iOS10/nunit.framework.xml",
+        "nunit.3.5.0.nupkg.sha512",
+        "nunit.nuspec"
+      ]
+    },
+    "NUnit.Console/3.4.1": {
+      "sha512": "Q73kcNaFjVXSd0Etw7O2O1gFUizBggo632rnbfVL/bFhMN09hTVx1iy7KzbCGK9W9SzLdX5nQyForofGmY5JEA==",
+      "type": "package",
+      "path": "nunit.console/3.4.1",
+      "files": [
+        ".signature.p7s",
+        "nunit.console.3.4.1.nupkg.sha512",
+        "nunit.console.nuspec"
+      ]
+    },
+    "NUnit.ConsoleRunner/3.4.1": {
+      "sha512": "4oRTx0nMmEkW5nwCG/FWLVxmEcN5U1BEI5X8s3h6/xw5VhX09wm6lfrtMPoQvHKv+bOQiIZRucb2ESKsl+rB2g==",
+      "type": "package",
+      "path": "nunit.consolerunner/3.4.1",
+      "files": [
+        ".signature.p7s",
+        "CHANGES.txt",
+        "LICENSE.txt",
+        "NOTICES.txt",
+        "nunit.consolerunner.3.4.1.nupkg.sha512",
+        "nunit.consolerunner.nuspec",
+        "tools/Mono.Cecil.dll",
+        "tools/nunit-agent-x86.exe",
+        "tools/nunit-agent-x86.exe.config",
+        "tools/nunit-agent.exe",
+        "tools/nunit-agent.exe.config",
+        "tools/nunit.engine.api.dll",
+        "tools/nunit.engine.api.xml",
+        "tools/nunit.engine.dll",
+        "tools/nunit.nuget.addins",
+        "tools/nunit3-console.exe",
+        "tools/nunit3-console.exe.config"
+      ]
+    },
+    "NUnit.Extension.NUnitProjectLoader/3.4.1": {
+      "sha512": "WbHPOi2XZ/CJyYvIMt4JwoRT2N7Cc17lZ7VmT+1rw9k0NMXs01acFBljEznwj8UZTJ3dEFpQpi6pLz+Qqb7QDA==",
+      "type": "package",
+      "path": "nunit.extension.nunitprojectloader/3.4.1",
+      "files": [
+        ".signature.p7s",
+        "LICENSE.txt",
+        "NOTICES.txt",
+        "nunit.extension.nunitprojectloader.3.4.1.nupkg.sha512",
+        "nunit.extension.nunitprojectloader.nuspec",
+        "tools/nunit-project-loader.dll"
+      ]
+    },
+    "NUnit.Extension.NUnitV2Driver/3.4.1": {
+      "sha512": "965/BtVqeX9cl3I/JXCG1Ic9soUYH80opJb6+sUNKyS4GzTxb3NVgANnAsw0BEx4TlgfNIVre/ovCSPvL56xKA==",
+      "type": "package",
+      "path": "nunit.extension.nunitv2driver/3.4.1",
+      "files": [
+        ".signature.p7s",
+        "LICENSE.txt",
+        "NOTICES.txt",
+        "nunit.extension.nunitv2driver.3.4.1.nupkg.sha512",
+        "nunit.extension.nunitv2driver.nuspec",
+        "tools/nunit.core.dll",
+        "tools/nunit.core.interfaces.dll",
+        "tools/nunit.v2.driver.addins",
+        "tools/nunit.v2.driver.dll"
+      ]
+    },
+    "NUnit.Extension.NUnitV2ResultWriter/3.4.1": {
+      "sha512": "xpqJKAy2MtKWvC7qS3+WqV/EIev9CH7pPKUxQHfaqGbSUzHaDssGaRirHszoXUWv18/vRlBH4NbfwAahxXS5QQ==",
+      "type": "package",
+      "path": "nunit.extension.nunitv2resultwriter/3.4.1",
+      "files": [
+        ".signature.p7s",
+        "LICENSE.txt",
+        "NOTICES.txt",
+        "nunit.extension.nunitv2resultwriter.3.4.1.nupkg.sha512",
+        "nunit.extension.nunitv2resultwriter.nuspec",
+        "tools/nunit-v2-result-writer.dll"
+      ]
+    },
+    "NUnit.Extension.TeamCityEventListener/1.0.1": {
+      "sha512": "YniZTJBms2jlv0XEW0cO/orCY6lhzg+z4WF4XzuwnxYzaQEVqpthqhLrTsRqoXqjSeqaLSiQm3vDXMoLvzVO0A==",
+      "type": "package",
+      "path": "nunit.extension.teamcityeventlistener/1.0.1",
+      "files": [
+        ".signature.p7s",
+        "LICENSE.txt",
+        "NOTICES.txt",
+        "nunit.extension.teamcityeventlistener.1.0.1.nupkg.sha512",
+        "nunit.extension.teamcityeventlistener.nuspec",
+        "tools/teamcity-event-listener.dll"
+      ]
+    },
+    "NUnit.Extension.VSProjectLoader/3.4.1": {
+      "sha512": "o4arO++zLf539RNjawcmDJ6o2x5de+F5c1P5/z3/R72oIn3wqSWmR9m0T23a8qDCfed04MSZUgPuwc75aQmR/A==",
+      "type": "package",
+      "path": "nunit.extension.vsprojectloader/3.4.1",
+      "files": [
+        ".signature.p7s",
+        "LICENSE.txt",
+        "NOTICES.txt",
+        "nunit.extension.vsprojectloader.3.4.1.nupkg.sha512",
+        "nunit.extension.vsprojectloader.nuspec",
+        "tools/vs-project-loader.dll"
+      ]
+    },
+    "NUnit3TestAdapter/3.10.0": {
+      "sha512": "PYfvC3lM3XngRbJOqxuD9ldqQetSIKvinSuMY6MpLhyCQO8Cz3KPIaoHnPw+LI3WR/5/MIeRSYPnqXskctHoMw==",
+      "type": "package",
+      "path": "nunit3testadapter/3.10.0",
+      "files": [
+        ".signature.p7s",
+        "LICENSE.txt",
+        "build/net35/Mono.Cecil.dll",
+        "build/net35/NUnit3.TestAdapter.dll",
+        "build/net35/NUnit3.TestAdapter.pdb",
+        "build/net35/NUnit3TestAdapter.props",
+        "build/net35/nunit.engine.api.dll",
+        "build/net35/nunit.engine.dll",
+        "build/netcoreapp1.0/Mono.Cecil.dll",
+        "build/netcoreapp1.0/NUnit3.TestAdapter.dll",
+        "build/netcoreapp1.0/NUnit3.TestAdapter.pdb",
+        "build/netcoreapp1.0/NUnit3TestAdapter.props",
+        "build/netcoreapp1.0/nunit.engine.netstandard.dll",
+        "nunit3testadapter.3.10.0.nupkg.sha512",
+        "nunit3testadapter.nuspec"
+      ]
+    },
+    "Capsule_TaskManager/1.0.0": {
+      "type": "project",
+      "path": "../Capsule_TaskManager/Capsule_TaskManager.csproj",
+      "msbuildProject": "../Capsule_TaskManager/Capsule_TaskManager.csproj"
+    },
+    "Capsule_TaskManagerBL/1.0.0": {
+      "type": "project",
+      "path": "../Capsule_TaskManagerBL/Capsule_TaskManagerBL.csproj",
+      "msbuildProject": "../Capsule_TaskManagerBL/Capsule_TaskManagerBL.csproj"
+    },
+    "Capsule_TaskManagerDL/1.0.0": {
+      "type": "project",
+      "path": "../Capsule_TaskManagerDL/Capsule_TaskManagerDL.csproj",
+      "msbuildProject": "../Capsule_TaskManagerDL/Capsule_TaskManagerDL.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.5.2": [
+      "Capsule_TaskManager >= 1.0.0",
+      "Capsule_TaskManagerDL >= 1.0.0",
+      "Microsoft.AspNet.WebApi.Client >= 5.2.6",
+      "Microsoft.AspNet.WebApi.Core >= 5.2.6",
+      "NUnit >= 3.5.0",
+      "NUnit.Console >= 3.4.1",
+      "NUnit.ConsoleRunner >= 3.4.1",
+      "NUnit.Extension.NUnitProjectLoader >= 3.4.1",
+      "NUnit.Extension.NUnitV2Driver >= 3.4.1",
+      "NUnit.Extension.NUnitV2ResultWriter >= 3.4.1",
+      "NUnit.Extension.TeamCityEventListener >= 1.0.1",
+      "NUnit.Extension.VSProjectLoader >= 3.4.1",
+      "NUnit3TestAdapter >= 3.10.0",
+      "Newtonsoft.Json >= 10.0.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Code\\Service\\CapsuleWebService\\NBench_Capsule.Tests\\NBench_Capsule.Tests.csproj",
+      "projectName": "NBench_Capsule.Tests",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\Code\\Service\\CapsuleWebService\\NBench_Capsule.Tests\\NBench_Capsule.Tests.csproj",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\Code\\Service\\CapsuleWebService\\NBench_Capsule.Tests\\obj\\",
+      "projectStyle": "PackageReference",
+      "originalTargetFrameworks": [
+        "net452"
+      ],
+      "frameworks": {
+        "net452": {
+          "projectReferences": {
+            "C:\\Users\\Admin\\Desktop\\Code\\Service\\CapsuleWebService\\Capsule_TaskManagerDL\\Capsule_TaskManagerDL.csproj": {
+              "projectPath": "C:\\Users\\Admin\\Desktop\\Code\\Service\\CapsuleWebService\\Capsule_TaskManagerDL\\Capsule_TaskManagerDL.csproj"
+            },
+            "C:\\Users\\Admin\\Desktop\\Code\\Service\\CapsuleWebService\\Capsule_TaskManager\\Capsule_TaskManager.csproj": {
+              "projectPath": "C:\\Users\\Admin\\Desktop\\Code\\Service\\CapsuleWebService\\Capsule_TaskManager\\Capsule_TaskManager.csproj"
+            }
+          }
+        }
+      }
+    },
+    "dependencies": {
+      "Microsoft.AspNet.WebApi.Client": {
+        "target": "Package",
+        "version": "5.2.6"
+      },
+      "Microsoft.AspNet.WebApi.Core": {
+        "target": "Package",
+        "version": "5.2.6"
+      },
+      "Newtonsoft.Json": {
+        "target": "Package",
+        "version": "10.0.1"
+      },
+      "NUnit": {
+        "target": "Package",
+        "version": "3.5.0"
+      },
+      "NUnit.Console": {
+        "target": "Package",
+        "version": "3.4.1"
+      },
+      "NUnit.ConsoleRunner": {
+        "target": "Package",
+        "version": "3.4.1"
+      },
+      "NUnit.Extension.NUnitProjectLoader": {
+        "target": "Package",
+        "version": "3.4.1"
+      },
+      "NUnit.Extension.NUnitV2Driver": {
+        "target": "Package",
+        "version": "3.4.1"
+      },
+      "NUnit.Extension.NUnitV2ResultWriter": {
+        "target": "Package",
+        "version": "3.4.1"
+      },
+      "NUnit.Extension.TeamCityEventListener": {
+        "target": "Package",
+        "version": "1.0.1"
+      },
+      "NUnit.Extension.VSProjectLoader": {
+        "target": "Package",
+        "version": "3.4.1"
+      },
+      "NUnit3TestAdapter": {
+        "target": "Package",
+        "version": "3.10.0"
+      }
+    },
+    "frameworks": {
+      "net452": {
+        "dependencies": {
+          "Microsoft.AspNet.WebApi.Client": {
+            "target": "Package",
+            "version": "5.2.6"
+          },
+          "Microsoft.AspNet.WebApi.Core": {
+            "target": "Package",
+            "version": "5.2.6"
+          },
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "10.0.1"
+          },
+          "NUnit": {
+            "target": "Package",
+            "version": "3.5.0"
+          },
+          "NUnit.Console": {
+            "target": "Package",
+            "version": "3.4.1"
+          },
+          "NUnit.ConsoleRunner": {
+            "target": "Package",
+            "version": "3.4.1"
+          },
+          "NUnit.Extension.NUnitProjectLoader": {
+            "target": "Package",
+            "version": "3.4.1"
+          },
+          "NUnit.Extension.NUnitV2Driver": {
+            "target": "Package",
+            "version": "3.4.1"
+          },
+          "NUnit.Extension.NUnitV2ResultWriter": {
+            "target": "Package",
+            "version": "3.4.1"
+          },
+          "NUnit.Extension.TeamCityEventListener": {
+            "target": "Package",
+            "version": "1.0.1"
+          },
+          "NUnit.Extension.VSProjectLoader": {
+            "target": "Package",
+            "version": "3.4.1"
+          },
+          "NUnit3TestAdapter": {
+            "target": "Package",
+            "version": "3.10.0"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

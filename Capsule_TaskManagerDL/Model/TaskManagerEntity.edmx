@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="TaskManagerModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <!--Errors Found During Generation:
+warning 6013: The table/view 'TaskManager.dbo.Parent_Task' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+        <EntityType Name="Parent_Task">
+          <Property Name="Parent_ID" Type="int" />
+          <Property Name="Parent_Task" Type="varchar" MaxLength="500" />
+        </EntityType>-->
+        <!--Errors Found During Generation:
+warning 6013: The table/view 'TaskManager.dbo.Task' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+        <EntityType Name="Task">
+          <Property Name="Task_ID" Type="int" />
+          <Property Name="Parent_ID" Type="int" />
+          <Property Name="Task" Type="varchar" MaxLength="500" />
+          <Property Name="Start_Date" Type="datetime" />
+          <Property Name="End_Date" Type="datetime" />
+          <Property Name="Priority" Type="int" />
+          <Property Name="IsActive" Type="int" />
+        </EntityType>-->
+        <Function Name="GET_PARENT_TASK" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+        <Function Name="GET_TASK_DETAILS" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+        <Function Name="INSERT_TASK_DETAILS" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="Task_ID" Type="int" Mode="In" />
+          <Parameter Name="Parent_ID" Type="int" Mode="In" />
+          <Parameter Name="Task" Type="varchar" Mode="In" />
+          <Parameter Name="Start_Date" Type="datetime" Mode="In" />
+          <Parameter Name="End_Date" Type="datetime" Mode="In" />
+          <Parameter Name="Priority" Type="int" Mode="In" />
+        </Function>
+        <Function Name="UPDATE_END_TASK" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="Task_ID" Type="int" Mode="In" />
+          <Parameter Name="End_Date" Type="datetime" Mode="In" />
+        </Function>
+        <EntityContainer Name="TaskManagerModelStoreContainer" />
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="TaskManagerModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityContainer Name="Entities" annotation:LazyLoadingEnabled="true" >
+          <FunctionImport Name="GET_PARENT_TASK" ReturnType="Collection(TaskManagerModel.GET_PARENT_TASK_Result)" />
+          <FunctionImport Name="GET_TASK_DETAILS" ReturnType="Collection(TaskManagerModel.GET_TASK_DETAILS_Result)" />
+          <FunctionImport Name="INSERT_TASK_DETAILS">
+            <Parameter Name="Task_ID" Mode="In" Type="Int32" />
+            <Parameter Name="Parent_ID" Mode="In" Type="Int32" />
+            <Parameter Name="Task" Mode="In" Type="String" />
+            <Parameter Name="Start_Date" Mode="In" Type="DateTime" />
+            <Parameter Name="End_Date" Mode="In" Type="DateTime" />
+            <Parameter Name="Priority" Mode="In" Type="Int32" />
+          </FunctionImport>
+          <FunctionImport Name="UPDATE_END_TASK">
+            <Parameter Name="Task_ID" Mode="In" Type="Int32" />
+            <Parameter Name="End_Date" Mode="In" Type="DateTime" />
+          </FunctionImport>
+        </EntityContainer>
+        <ComplexType Name="GET_PARENT_TASK_Result">
+          <Property Type="Int32" Name="Parent_ID" Nullable="true" />
+          <Property Type="String" Name="Parent_Task" Nullable="true" MaxLength="500" />
+        </ComplexType>
+        <ComplexType Name="GET_TASK_DETAILS_Result">
+          <Property Type="Int32" Name="Task_ID" Nullable="true" />
+          <Property Type="Int32" Name="Parent_ID" Nullable="true" />
+          <Property Type="String" Name="Task" Nullable="true" MaxLength="500" />
+          <Property Type="DateTime" Name="Start_Date" Nullable="true" Precision="23" />
+          <Property Type="DateTime" Name="End_Date" Nullable="true" Precision="23" />
+          <Property Type="Int32" Name="Priority" Nullable="true" />
+          <Property Type="Int32" Name="IsActive" Nullable="true" />
+        </ComplexType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="TaskManagerModelStoreContainer" CdmEntityContainer="Entities" >
+          <FunctionImportMapping FunctionImportName="GET_PARENT_TASK" FunctionName="TaskManagerModel.Store.GET_PARENT_TASK">
+            <ResultMapping>
+              <ComplexTypeMapping TypeName="TaskManagerModel.GET_PARENT_TASK_Result">
+                <ScalarProperty Name="Parent_ID" ColumnName="Parent_ID" />
+                <ScalarProperty Name="Parent_Task" ColumnName="Parent_Task" />
+              </ComplexTypeMapping>
+            </ResultMapping>
+          </FunctionImportMapping>
+          <FunctionImportMapping FunctionImportName="GET_TASK_DETAILS" FunctionName="TaskManagerModel.Store.GET_TASK_DETAILS">
+            <ResultMapping>
+              <ComplexTypeMapping TypeName="TaskManagerModel.GET_TASK_DETAILS_Result">
+                <ScalarProperty Name="Task_ID" ColumnName="Task_ID" />
+                <ScalarProperty Name="Parent_ID" ColumnName="Parent_ID" />
+                <ScalarProperty Name="Task" ColumnName="Task" />
+                <ScalarProperty Name="Start_Date" ColumnName="Start_Date" />
+                <ScalarProperty Name="End_Date" ColumnName="End_Date" />
+                <ScalarProperty Name="Priority" ColumnName="Priority" />
+                <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+              </ComplexTypeMapping>
+            </ResultMapping>
+          </FunctionImportMapping>
+          <FunctionImportMapping FunctionImportName="INSERT_TASK_DETAILS" FunctionName="TaskManagerModel.Store.INSERT_TASK_DETAILS" />
+          <FunctionImportMapping FunctionImportName="UPDATE_END_TASK" FunctionName="TaskManagerModel.Store.UPDATE_END_TASK" />
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="true" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

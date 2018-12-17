@@ -1,0 +1,9 @@
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_DataAccessLayer\bin\Debug\Capsule_DataAccessLayer.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_DataAccessLayer\bin\Debug\Capsule_DataAccessLayer.pdb
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_DataAccessLayer\obj\Debug\Capsule_DataAccessLayer.dll
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_DataAccessLayer\obj\Debug\Capsule_DataAccessLayer.pdb
+D:\Full back up\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_DataAccessLayer\obj\Debug\Capsule_DataAccessLayer.csprojResolveAssemblyReference.cache
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_DataAccessLayer\bin\Debug\Capsule_DataAccessLayer.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_DataAccessLayer\bin\Debug\Capsule_DataAccessLayer.pdb
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_DataAccessLayer\obj\Debug\Capsule_DataAccessLayer.dll
+D:\Fullbackup\Vijay\FSD\Projects\CapsuleProject\Capsule_TaskManager\Capsule_DataAccessLayer\obj\Debug\Capsule_DataAccessLayer.pdb

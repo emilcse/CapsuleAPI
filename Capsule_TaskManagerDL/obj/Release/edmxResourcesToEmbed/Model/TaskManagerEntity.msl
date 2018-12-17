@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TaskManagerModelStoreContainer" CdmEntityContainer="Entities">
+    <FunctionImportMapping FunctionImportName="GET_PARENT_TASK" FunctionName="TaskManagerModel.Store.GET_PARENT_TASK">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="TaskManagerModel.GET_PARENT_TASK_Result">
+          <ScalarProperty Name="Parent_ID" ColumnName="Parent_ID" />
+          <ScalarProperty Name="Parent_Task" ColumnName="Parent_Task" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="GET_TASK_DETAILS" FunctionName="TaskManagerModel.Store.GET_TASK_DETAILS">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="TaskManagerModel.GET_TASK_DETAILS_Result">
+          <ScalarProperty Name="Task_ID" ColumnName="Task_ID" />
+          <ScalarProperty Name="Parent_ID" ColumnName="Parent_ID" />
+          <ScalarProperty Name="Task" ColumnName="Task" />
+          <ScalarProperty Name="Start_Date" ColumnName="Start_Date" />
+          <ScalarProperty Name="End_Date" ColumnName="End_Date" />
+          <ScalarProperty Name="Priority" ColumnName="Priority" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="INSERT_TASK_DETAILS" FunctionName="TaskManagerModel.Store.INSERT_TASK_DETAILS" />
+    <FunctionImportMapping FunctionImportName="UPDATE_END_TASK" FunctionName="TaskManagerModel.Store.UPDATE_END_TASK" />
+  </EntityContainerMapping>
+</Mapping>
