@@ -62,3 +62,14 @@ C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManag
 C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManagerBL\obj\Debug\Capsule_TaskManagerBL.csprojResolveAssemblyReference.cache
 C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManagerBL\obj\Debug\Capsule_TaskManagerBL.dll
 C:\Users\Admin\Desktop\Task_Capsule-master\Task_Capsule-master\Capsule_TaskManagerBL\obj\Debug\Capsule_TaskManagerBL.pdb
+C:\Emil\Capsule\Capsule\Capsule_TaskManagerBL\bin\Debug\Capsule_TaskManagerBL.dll
+C:\Emil\Capsule\Capsule\Capsule_TaskManagerBL\bin\Debug\Capsule_TaskManagerBL.pdb
+C:\Emil\Capsule\Capsule\Capsule_TaskManagerBL\bin\Debug\Capsule_TaskManagerDL.dll
+C:\Emil\Capsule\Capsule\Capsule_TaskManagerBL\bin\Debug\NBench.dll
+C:\Emil\Capsule\Capsule\Capsule_TaskManagerBL\bin\Debug\EntityFramework.dll
+C:\Emil\Capsule\Capsule\Capsule_TaskManagerBL\bin\Debug\Capsule_TaskManagerDL.pdb
+C:\Emil\Capsule\Capsule\Capsule_TaskManagerBL\bin\Debug\Capsule_TaskManagerDL.dll.config
+C:\Emil\Capsule\Capsule\Capsule_TaskManagerBL\bin\Debug\EntityFramework.xml
+C:\Emil\Capsule\Capsule\Capsule_TaskManagerBL\obj\Debug\Capsule_TaskManagerBL.csprojResolveAssemblyReference.cache
+C:\Emil\Capsule\Capsule\Capsule_TaskManagerBL\obj\Debug\Capsule_TaskManagerBL.dll
+C:\Emil\Capsule\Capsule\Capsule_TaskManagerBL\obj\Debug\Capsule_TaskManagerBL.pdb

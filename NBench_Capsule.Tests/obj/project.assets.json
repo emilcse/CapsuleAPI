@@ -396,7 +396,7 @@
   },
   "libraries": {
     "Microsoft.AspNet.WebApi.Client/5.2.6": {
-      "sha512": "AIgEc1up4pvH8kXy+eG1x4Qfqd6piAq3yk11pveCQXWNkkYoiKdflSmcJZuWcerdMcAaoF0xC/mWGoTW4vF4Dg==",
+      "sha512": "91JMnE9zdIDphG00qgRvl8ZwKEjqAbNlJdfXUoMiIWPfpYyH7fyCsTSj6/aynRdw/Qr/K70xC7QC6MOJ1vFBJQ==",
       "type": "package",
       "path": "microsoft.aspnet.webapi.client/5.2.6",
       "files": [
@@ -412,7 +412,7 @@
       ]
     },
     "Microsoft.AspNet.WebApi.Core/5.2.6": {
-      "sha512": "8UiHr2VkrpwDCwXaXea8pNaR2zvJ3HYwsmWmkTFY1lEB2u4eFnL+aM+/GJK91Ud3KQ7Xse+Vysvj/UalM3IlmA==",
+      "sha512": "NLX0uWyNB6/LOYWem3IrdIq3El1Dh3Sp1P54Cn4JMoLNmIBZin3nKc1Zb7EcK2Ivpqseg3/4p2Y/3qunzOmW+w==",
       "type": "package",
       "path": "microsoft.aspnet.webapi.core/5.2.6",
       "files": [
@@ -634,15 +634,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\Administrator\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Code\\Service\\CapsuleWebService\\NBench_Capsule.Tests\\NBench_Capsule.Tests.csproj",
+      "projectUniqueName": "C:\\Emil\\Capsule\\Capsule\\NBench_Capsule.Tests\\NBench_Capsule.Tests.csproj",
       "projectName": "NBench_Capsule.Tests",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\Code\\Service\\CapsuleWebService\\NBench_Capsule.Tests\\NBench_Capsule.Tests.csproj",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\Code\\Service\\CapsuleWebService\\NBench_Capsule.Tests\\obj\\",
+      "projectPath": "C:\\Emil\\Capsule\\Capsule\\NBench_Capsule.Tests\\NBench_Capsule.Tests.csproj",
+      "outputPath": "C:\\Emil\\Capsule\\Capsule\\NBench_Capsule.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "net452"
@@ -650,11 +650,11 @@
       "frameworks": {
         "net452": {
           "projectReferences": {
-            "C:\\Users\\Admin\\Desktop\\Code\\Service\\CapsuleWebService\\Capsule_TaskManagerDL\\Capsule_TaskManagerDL.csproj": {
-              "projectPath": "C:\\Users\\Admin\\Desktop\\Code\\Service\\CapsuleWebService\\Capsule_TaskManagerDL\\Capsule_TaskManagerDL.csproj"
+            "C:\\Emil\\Capsule\\Capsule\\Capsule_TaskManagerDL\\Capsule_TaskManagerDL.csproj": {
+              "projectPath": "C:\\Emil\\Capsule\\Capsule\\Capsule_TaskManagerDL\\Capsule_TaskManagerDL.csproj"
             },
-            "C:\\Users\\Admin\\Desktop\\Code\\Service\\CapsuleWebService\\Capsule_TaskManager\\Capsule_TaskManager.csproj": {
-              "projectPath": "C:\\Users\\Admin\\Desktop\\Code\\Service\\CapsuleWebService\\Capsule_TaskManager\\Capsule_TaskManager.csproj"
+            "C:\\Emil\\Capsule\\Capsule\\Capsule_TaskManager\\Capsule_TaskManager.csproj": {
+              "projectPath": "C:\\Emil\\Capsule\\Capsule\\Capsule_TaskManager\\Capsule_TaskManager.csproj"
             }
           }
         }
