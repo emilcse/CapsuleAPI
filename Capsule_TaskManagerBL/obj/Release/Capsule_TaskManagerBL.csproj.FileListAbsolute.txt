@@ -19,3 +19,14 @@ C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManagerBL\bin\
 C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManagerBL\obj\Release\Capsule_TaskManagerBL.csprojResolveAssemblyReference.cache
 C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManagerBL\obj\Release\Capsule_TaskManagerBL.dll
 C:\Users\Admin\Desktop\Code\Service\CapsuleWebService\Capsule_TaskManagerBL\obj\Release\Capsule_TaskManagerBL.pdb
+C:\Emil\Capsule\Capsule\Capsule_TaskManagerBL\bin\Release\Capsule_TaskManagerBL.dll
+C:\Emil\Capsule\Capsule\Capsule_TaskManagerBL\bin\Release\Capsule_TaskManagerBL.pdb
+C:\Emil\Capsule\Capsule\Capsule_TaskManagerBL\bin\Release\Capsule_TaskManagerDL.dll
+C:\Emil\Capsule\Capsule\Capsule_TaskManagerBL\bin\Release\NBench.dll
+C:\Emil\Capsule\Capsule\Capsule_TaskManagerBL\bin\Release\EntityFramework.dll
+C:\Emil\Capsule\Capsule\Capsule_TaskManagerBL\bin\Release\Capsule_TaskManagerDL.pdb
+C:\Emil\Capsule\Capsule\Capsule_TaskManagerBL\bin\Release\Capsule_TaskManagerDL.dll.config
+C:\Emil\Capsule\Capsule\Capsule_TaskManagerBL\bin\Release\EntityFramework.xml
+C:\Emil\Capsule\Capsule\Capsule_TaskManagerBL\obj\Release\Capsule_TaskManagerBL.csprojResolveAssemblyReference.cache
+C:\Emil\Capsule\Capsule\Capsule_TaskManagerBL\obj\Release\Capsule_TaskManagerBL.dll
+C:\Emil\Capsule\Capsule\Capsule_TaskManagerBL\obj\Release\Capsule_TaskManagerBL.pdb

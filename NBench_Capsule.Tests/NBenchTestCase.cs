@@ -10,6 +10,7 @@ namespace NBench_Capsule.Tests
     {
         #region Variables
         TaskManagerController objTaskManagerController = null;
+        ProjectController objProjectController = null;
         GET_TASK_DETAILS_Result objGET_TASK_DETAILS_Result = null;
 
         private const int AcceptableMinAddThroughput = 500;
@@ -19,6 +20,7 @@ namespace NBench_Capsule.Tests
         public void SetUp(BenchmarkContext context)
         {
             objTaskManagerController = new TaskManagerController();
+            objProjectController = new ProjectController();
             objGET_TASK_DETAILS_Result = new GET_TASK_DETAILS_Result();
         }
 
@@ -72,6 +74,8 @@ namespace NBench_Capsule.Tests
             objGET_TASK_DETAILS_Result.Start_Date = DateTime.Now;
             objGET_TASK_DETAILS_Result.End_Date = null;
             objGET_TASK_DETAILS_Result.Priority = 4;
+            objGET_TASK_DETAILS_Result.IsActive = true;
+            objGET_TASK_DETAILS_Result.Project_ID = 1;
 
             #endregion
 
@@ -112,14 +116,33 @@ namespace NBench_Capsule.Tests
 
             var vlsit = objTaskManagerController.UpdateEndTask(objGET_TASK_DETAILS_Result);
         }
-        #endregion 
+        #endregion
+
+        #region SaveProejct
+        [PerfBenchmark(RunMode = RunMode.Iterations, NumberOfIterations = 500, TestMode = TestMode.Test, SkipWarmups = true)]
+        [ElapsedTimeAssertion(MaxTimeMilliseconds = 600000)]
+        public void SaveProject()
+        {
+            Project project = new Project();
+
+            project.ProjectID = 0;
+            project.ManagerID = "1";
+            project.Priority = 2;
+            project.StartDate = DateTime.Now;
+            project.EndDate = DateTime.Now.AddDays(1);
+            project.ProjectName = "Test Case Project";
+            project.Status = true;
+
+            var sproj = objProjectController.SaveProject(project);
+        }
+        #endregion
 
         [PerfCleanup]
         public void Cleanup(BenchmarkContext context)
         {
              objTaskManagerController = null;
              objGET_TASK_DETAILS_Result = null;
-
+            objProjectController = null;
         }
     }
 }

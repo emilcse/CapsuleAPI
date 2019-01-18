@@ -38,7 +38,7 @@ namespace Capsule_TaskManager.Controllers
         /// <returns></returns>
         [Route("api/TaskManager/GetTaskDetails")]
         [HttpGet]       
-        public IEnumerable<GET_TASK_DETAILS_Result> GetTaskDetails()
+        public List<TaskModel> GetTaskDetails()
         {
             objTaskManagerBL = new TaskManagerBL();
             var vGetTaskDetails = objTaskManagerBL.GetTaskDetails();

@@ -1,22 +1,100 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Schema Namespace="TaskManagerModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+<Schema Namespace="TaskManagerModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Parent_Task">
+    <Key>
+      <PropertyRef Name="Parent_ID" />
+    </Key>
+    <Property Name="Parent_ID" Type="int" Nullable="false" />
+    <Property Name="Parent_Task" Type="varchar" MaxLength="500" />
+  </EntityType>
+  <EntityType Name="Project">
+    <Key>
+      <PropertyRef Name="ProjectID" />
+    </Key>
+    <Property Name="ProjectID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ProjectName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Priority" Type="int" />
+    <Property Name="ManagerID" Type="nvarchar" MaxLength="50" />
+    <Property Name="StartDate" Type="datetime" />
+    <Property Name="EndDate" Type="datetime" />
+    <Property Name="Status" Type="bit" />
+  </EntityType>
+  <EntityType Name="Task">
+    <Key>
+      <PropertyRef Name="Task_ID" />
+    </Key>
+    <Property Name="Task_ID" Type="int" Nullable="false" />
+    <Property Name="Parent_ID" Type="int" />
+    <Property Name="Task" Type="varchar" MaxLength="500" />
+    <Property Name="Start_Date" Type="date" />
+    <Property Name="End_Date" Type="date" />
+    <Property Name="Priority" Type="int" />
+    <Property Name="IsActive" Type="bit" />
+    <Property Name="Project_ID" Type="int" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="User_ID" />
+    </Key>
+    <Property Name="User_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FirstName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="LastName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Employee_ID" Type="nvarchar" MaxLength="50" />
+    <Property Name="Project_ID" Type="int" />
+    <Property Name="Task_ID" Type="int" />
+    <Property Name="IsActive" Type="bit" />
+  </EntityType>
   <!--Errors Found During Generation:
-warning 6013: The table/view 'TaskManager.dbo.Parent_Task' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
-        <EntityType Name="Parent_Task">
-          <Property Name="Parent_ID" Type="int" />
-          <Property Name="Parent_Task" Type="varchar" MaxLength="500" />
-        </EntityType>-->
-  <!--Errors Found During Generation:
-warning 6013: The table/view 'TaskManager.dbo.Task' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
-        <EntityType Name="Task">
-          <Property Name="Task_ID" Type="int" />
-          <Property Name="Parent_ID" Type="int" />
-          <Property Name="Task" Type="varchar" MaxLength="500" />
-          <Property Name="Start_Date" Type="datetime" />
-          <Property Name="End_Date" Type="datetime" />
-          <Property Name="Priority" Type="int" />
-          <Property Name="IsActive" Type="int" />
-        </EntityType>-->
+warning 6035: The relationship 'FK_Project_User' has columns that are not part of the key of the table on the primary side of the relationship. The relationship was excluded.
+        <Association Name="FK_Project_User" />-->
+  <Association Name="FK_Task_Project">
+    <End Role="Project" Type="Self.Project" Multiplicity="0..1" />
+    <End Role="Task" Type="Self.Task" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Project">
+        <PropertyRef Name="ProjectID" />
+      </Principal>
+      <Dependent Role="Task">
+        <PropertyRef Name="Project_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Task_Task">
+    <End Role="Parent_Task" Type="Self.Parent_Task" Multiplicity="0..1" />
+    <End Role="Task" Type="Self.Task" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Parent_Task">
+        <PropertyRef Name="Parent_ID" />
+      </Principal>
+      <Dependent Role="Task">
+        <PropertyRef Name="Parent_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_User_Project">
+    <End Role="Project" Type="Self.Project" Multiplicity="0..1" />
+    <End Role="User" Type="Self.User" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Project">
+        <PropertyRef Name="ProjectID" />
+      </Principal>
+      <Dependent Role="User">
+        <PropertyRef Name="Project_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_User_Task">
+    <End Role="Task" Type="Self.Task" Multiplicity="0..1" />
+    <End Role="User" Type="Self.User" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Task">
+        <PropertyRef Name="Task_ID" />
+      </Principal>
+      <Dependent Role="User">
+        <PropertyRef Name="Task_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
   <Function Name="GET_PARENT_TASK" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
   <Function Name="GET_TASK_DETAILS" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
   <Function Name="INSERT_TASK_DETAILS" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
@@ -26,10 +104,32 @@ warning 6013: The table/view 'TaskManager.dbo.Task' does not have a primary key 
     <Parameter Name="Start_Date" Type="datetime" Mode="In" />
     <Parameter Name="End_Date" Type="datetime" Mode="In" />
     <Parameter Name="Priority" Type="int" Mode="In" />
+    <Parameter Name="Project_ID" Type="int" Mode="In" />
   </Function>
   <Function Name="UPDATE_END_TASK" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
     <Parameter Name="Task_ID" Type="int" Mode="In" />
     <Parameter Name="End_Date" Type="datetime" Mode="In" />
   </Function>
-  <EntityContainer Name="TaskManagerModelStoreContainer" />
+  <EntityContainer Name="TaskManagerModelStoreContainer">
+    <EntitySet Name="Parent_Task" EntityType="Self.Parent_Task" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Project" EntityType="Self.Project" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Task" EntityType="Self.Task" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="User" EntityType="Self.User" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Task_Project" Association="Self.FK_Task_Project">
+      <End Role="Project" EntitySet="Project" />
+      <End Role="Task" EntitySet="Task" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Task_Task" Association="Self.FK_Task_Task">
+      <End Role="Parent_Task" EntitySet="Parent_Task" />
+      <End Role="Task" EntitySet="Task" />
+    </AssociationSet>
+    <AssociationSet Name="FK_User_Project" Association="Self.FK_User_Project">
+      <End Role="Project" EntitySet="Project" />
+      <End Role="User" EntitySet="User" />
+    </AssociationSet>
+    <AssociationSet Name="FK_User_Task" Association="Self.FK_User_Task">
+      <End Role="Task" EntitySet="Task" />
+      <End Role="User" EntitySet="User" />
+    </AssociationSet>
+  </EntityContainer>
 </Schema>

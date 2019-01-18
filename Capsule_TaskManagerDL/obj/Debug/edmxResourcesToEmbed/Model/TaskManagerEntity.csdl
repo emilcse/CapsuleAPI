@@ -1,7 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Schema Namespace="TaskManagerModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
-  <EntityContainer Name="Entities" annotation:LazyLoadingEnabled="true">
+  <EntityContainer Name="TaskManagerEntities" annotation:LazyLoadingEnabled="true">
     <FunctionImport Name="GET_PARENT_TASK" ReturnType="Collection(TaskManagerModel.GET_PARENT_TASK_Result)" />
+    <FunctionImport Name="UPDATE_END_TASK">
+      <Parameter Name="Task_ID" Mode="In" Type="Int32" />
+      <Parameter Name="End_Date" Mode="In" Type="DateTime" />
+    </FunctionImport>
+    <EntitySet Name="Parent_Task" EntityType="TaskManagerModel.Parent_Task" />
+    <EntitySet Name="Projects" EntityType="TaskManagerModel.Project" />
+    <EntitySet Name="Tasks" EntityType="TaskManagerModel.Task" />
+    <AssociationSet Name="FK_Task_Task" Association="TaskManagerModel.FK_Task_Task">
+      <End Role="Parent_Task" EntitySet="Parent_Task" />
+      <End Role="Task" EntitySet="Tasks" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Task_Project" Association="TaskManagerModel.FK_Task_Project">
+      <End Role="Project" EntitySet="Projects" />
+      <End Role="Task" EntitySet="Tasks" />
+    </AssociationSet>
     <FunctionImport Name="GET_TASK_DETAILS" ReturnType="Collection(TaskManagerModel.GET_TASK_DETAILS_Result)" />
     <FunctionImport Name="INSERT_TASK_DETAILS">
       <Parameter Name="Task_ID" Mode="In" Type="Int32" />
@@ -10,23 +25,130 @@
       <Parameter Name="Start_Date" Mode="In" Type="DateTime" />
       <Parameter Name="End_Date" Mode="In" Type="DateTime" />
       <Parameter Name="Priority" Mode="In" Type="Int32" />
+      <Parameter Name="Project_ID" Mode="In" Type="Int32" />
     </FunctionImport>
-    <FunctionImport Name="UPDATE_END_TASK">
-      <Parameter Name="Task_ID" Mode="In" Type="Int32" />
-      <Parameter Name="End_Date" Mode="In" Type="DateTime" />
-    </FunctionImport>
+    <EntitySet Name="Users" EntityType="TaskManagerModel.User" />
+    <AssociationSet Name="FK_User_Project" Association="TaskManagerModel.FK_User_Project">
+      <End Role="Project" EntitySet="Projects" />
+      <End Role="User" EntitySet="Users" />
+    </AssociationSet>
+    <AssociationSet Name="FK_User_Task" Association="TaskManagerModel.FK_User_Task">
+      <End Role="Task" EntitySet="Tasks" />
+      <End Role="User" EntitySet="Users" />
+    </AssociationSet>
   </EntityContainer>
   <ComplexType Name="GET_PARENT_TASK_Result">
     <Property Type="Int32" Name="Parent_ID" Nullable="true" />
     <Property Type="String" Name="Parent_Task" Nullable="true" MaxLength="500" />
   </ComplexType>
+  <EntityType Name="Parent_Task">
+    <Key>
+      <PropertyRef Name="Parent_ID" />
+    </Key>
+    <Property Name="Parent_ID" Type="Int32" Nullable="false" />
+    <Property Name="Parent_Task1" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Tasks" Relationship="TaskManagerModel.FK_Task_Task" FromRole="Parent_Task" ToRole="Task" />
+  </EntityType>
+  <EntityType Name="Project">
+    <Key>
+      <PropertyRef Name="ProjectID" />
+    </Key>
+    <Property Name="ProjectID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ProjectName" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Priority" Type="Int32" />
+    <Property Name="ManagerID" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="StartDate" Type="DateTime" Precision="3" />
+    <Property Name="EndDate" Type="DateTime" Precision="3" />
+    <Property Name="Status" Type="Boolean" />
+    <NavigationProperty Name="Tasks" Relationship="TaskManagerModel.FK_Task_Project" FromRole="Project" ToRole="Task" />
+    <NavigationProperty Name="Users" Relationship="TaskManagerModel.FK_User_Project" FromRole="Project" ToRole="User" />
+  </EntityType>
+  <EntityType Name="Task">
+    <Key>
+      <PropertyRef Name="Task_ID" />
+    </Key>
+    <Property Name="Task_ID" Type="Int32" Nullable="false" />
+    <Property Name="Parent_ID" Type="Int32" />
+    <Property Name="Task1" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="Start_Date" Type="DateTime" Precision="0" />
+    <Property Name="End_Date" Type="DateTime" Precision="0" />
+    <Property Name="Priority" Type="Int32" />
+    <Property Name="IsActive" Type="Boolean" />
+    <Property Name="Project_ID" Type="Int32" />
+    <NavigationProperty Name="Parent_Task" Relationship="TaskManagerModel.FK_Task_Task" FromRole="Task" ToRole="Parent_Task" />
+    <NavigationProperty Name="Project" Relationship="TaskManagerModel.FK_Task_Project" FromRole="Task" ToRole="Project" />
+    <NavigationProperty Name="Users" Relationship="TaskManagerModel.FK_User_Task" FromRole="Task" ToRole="User" />
+  </EntityType>
+  <Association Name="FK_Task_Task">
+    <End Type="TaskManagerModel.Parent_Task" Role="Parent_Task" Multiplicity="0..1" />
+    <End Type="TaskManagerModel.Task" Role="Task" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Parent_Task">
+        <PropertyRef Name="Parent_ID" />
+      </Principal>
+      <Dependent Role="Task">
+        <PropertyRef Name="Parent_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Task_Project">
+    <End Type="TaskManagerModel.Project" Role="Project" Multiplicity="0..1" />
+    <End Type="TaskManagerModel.Task" Role="Task" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Project">
+        <PropertyRef Name="ProjectID" />
+      </Principal>
+      <Dependent Role="Task">
+        <PropertyRef Name="Project_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
   <ComplexType Name="GET_TASK_DETAILS_Result">
-    <Property Type="Int32" Name="Task_ID" Nullable="true" />
+    <Property Type="Int32" Name="Task_ID" Nullable="false" />
     <Property Type="Int32" Name="Parent_ID" Nullable="true" />
     <Property Type="String" Name="Task" Nullable="true" MaxLength="500" />
-    <Property Type="DateTime" Name="Start_Date" Nullable="true" Precision="23" />
-    <Property Type="DateTime" Name="End_Date" Nullable="true" Precision="23" />
+    <Property Type="DateTime" Name="Start_Date" Nullable="true" />
+    <Property Type="DateTime" Name="End_Date" Nullable="true" />
     <Property Type="Int32" Name="Priority" Nullable="true" />
-    <Property Type="Int32" Name="IsActive" Nullable="true" />
+    <Property Type="Boolean" Name="IsActive" Nullable="true" />
+    <Property Type="Int32" Name="Project_ID" Nullable="true" />
   </ComplexType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="User_ID" />
+    </Key>
+    <Property Name="User_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FirstName" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="LastName" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Employee_ID" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Project_ID" Type="Int32" />
+    <Property Name="Task_ID" Type="Int32" />
+    <Property Name="IsActive" Type="Boolean" />
+    <NavigationProperty Name="Project" Relationship="TaskManagerModel.FK_User_Project" FromRole="User" ToRole="Project" />
+    <NavigationProperty Name="Task" Relationship="TaskManagerModel.FK_User_Task" FromRole="User" ToRole="Task" />
+  </EntityType>
+  <Association Name="FK_User_Project">
+    <End Type="TaskManagerModel.Project" Role="Project" Multiplicity="0..1" />
+    <End Type="TaskManagerModel.User" Role="User" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Project">
+        <PropertyRef Name="ProjectID" />
+      </Principal>
+      <Dependent Role="User">
+        <PropertyRef Name="Project_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_User_Task">
+    <End Type="TaskManagerModel.Task" Role="Task" Multiplicity="0..1" />
+    <End Type="TaskManagerModel.User" Role="User" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Task">
+        <PropertyRef Name="Task_ID" />
+      </Principal>
+      <Dependent Role="User">
+        <PropertyRef Name="Task_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
 </Schema>

@@ -13,6 +13,7 @@ namespace NUnit_TaskManagerController
 
         TaskManagerController objTaskManagerController = new TaskManagerController();
         GET_TASK_DETAILS_Result objGET_TASK_DETAILS_Result = null;
+        ProjectController objProjectController = new ProjectController();
 
         #endregion
 
@@ -65,6 +66,8 @@ namespace NUnit_TaskManagerController
             objGET_TASK_DETAILS_Result.Start_Date = DateTime.Now;
             objGET_TASK_DETAILS_Result.End_Date = null;
             objGET_TASK_DETAILS_Result.Priority = 4;
+            objGET_TASK_DETAILS_Result.IsActive = true;
+            objGET_TASK_DETAILS_Result.Project_ID = 1007;
 
             #endregion
 
@@ -104,8 +107,28 @@ namespace NUnit_TaskManagerController
             #endregion
 
             var vlsit = objTaskManagerController.UpdateEndTask(objGET_TASK_DETAILS_Result);
-            Assert.IsTrue(vlsit == "1");
+            Assert.IsTrue(true);
         }
         #endregion 
+
+        #region SaveProejct
+        [Test]
+        public void SaveProject()
+        {
+            Project project = new Project();
+
+            project.ProjectID = 0;
+            project.ManagerID = "002";
+            project.Priority = 2;
+            project.StartDate = DateTime.Now;
+            project.EndDate = DateTime.Now.AddDays(1);
+            project.ProjectName = "Test Case Project";
+            project.Status = true;
+
+            var sproj = objProjectController.SaveProject(project);
+
+            Assert.IsTrue(sproj != string.Empty);
+        }
+        #endregion        
     }
 }

@@ -42,7 +42,9 @@ C:\Emil\Capsule\Capsule\Capsule_TaskManagerDL\bin\Debug\Capsule_TaskManagerDL.dl
 C:\Emil\Capsule\Capsule\Capsule_TaskManagerDL\bin\Debug\Capsule_TaskManagerDL.dll
 C:\Emil\Capsule\Capsule\Capsule_TaskManagerDL\bin\Debug\Capsule_TaskManagerDL.pdb
 C:\Emil\Capsule\Capsule\Capsule_TaskManagerDL\bin\Debug\EntityFramework.dll
+C:\Emil\Capsule\Capsule\Capsule_TaskManagerDL\bin\Debug\EntityFramework.SqlServer.dll
 C:\Emil\Capsule\Capsule\Capsule_TaskManagerDL\bin\Debug\EntityFramework.xml
-C:\Emil\Capsule\Capsule\Capsule_TaskManagerDL\obj\Debug\Capsule_TaskManagerDL.csprojResolveAssemblyReference.cache
+C:\Emil\Capsule\Capsule\Capsule_TaskManagerDL\bin\Debug\EntityFramework.SqlServer.xml
 C:\Emil\Capsule\Capsule\Capsule_TaskManagerDL\obj\Debug\Capsule_TaskManagerDL.dll
 C:\Emil\Capsule\Capsule\Capsule_TaskManagerDL\obj\Debug\Capsule_TaskManagerDL.pdb
+C:\Emil\Capsule\Capsule\Capsule_TaskManagerDL\obj\Debug\Capsule_TaskManagerDL.csprojResolveAssemblyReference.cache

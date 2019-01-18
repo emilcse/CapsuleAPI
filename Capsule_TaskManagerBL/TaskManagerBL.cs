@@ -34,7 +34,7 @@ namespace Capsule_TaskManagerBL
         /// </summary>
         /// <returns></returns>
 
-        public IEnumerable<GET_TASK_DETAILS_Result> GetTaskDetails()
+        public List<TaskModel> GetTaskDetails()
         {
             objTaskManagerDL = new TaskManagerDL();
             var vGetTaskDetails = objTaskManagerDL.GetTaskDetails();

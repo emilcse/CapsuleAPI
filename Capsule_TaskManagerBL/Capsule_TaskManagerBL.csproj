@@ -46,8 +46,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ProjectManagerBL.cs" />
     <Compile Include="TaskManagerBL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserManagerBL.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Capsule_TaskManagerDL\Capsule_TaskManagerDL.csproj">

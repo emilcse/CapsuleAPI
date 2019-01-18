@@ -31,7 +31,11 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="EntityFramework, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
-      <HintPath>..\packages\EntityFramework.5.0.0\lib\net45\EntityFramework.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
@@ -53,6 +57,16 @@
     <Compile Include="Model\GET_TASK_DETAILS_Result.cs">
       <DependentUpon>TaskManagerEntity.tt</DependentUpon>
     </Compile>
+    <Compile Include="Model\Parent_Task.cs">
+      <DependentUpon>TaskManagerEntity.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Model\Project.cs">
+      <DependentUpon>TaskManagerEntity.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Model\ProjectModel.cs" />
+    <Compile Include="Model\Task.cs">
+      <DependentUpon>TaskManagerEntity.tt</DependentUpon>
+    </Compile>
     <Compile Include="Model\TaskManagerEntity.Context.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -68,8 +82,15 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>TaskManagerEntity.edmx</DependentUpon>
     </Compile>
+    <Compile Include="Model\TaskModel.cs" />
+    <Compile Include="Model\User.cs">
+      <DependentUpon>TaskManagerEntity.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Model\UserModel.cs" />
+    <Compile Include="ProjectManagerDL.cs" />
     <Compile Include="TaskManagerDL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserManagerDL.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.Config" />
